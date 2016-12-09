@@ -1,20 +1,12 @@
-# sprint-2
-First sprint repository.
+# Gift Garden
 
-## README File
+This repo holds the class version of Gift Garden, a gift management system for nonprofits.
+The system was created by the students of CSC 694 Fall 2016 term at North Central College.
 
-This is the readme for our first sprint.
+The class version of Gift Garden is at: [giftgarden694.herokuapp.com](http://giftgarden694.herokuapp.com/).
 
-Things to possibly cover here include:
-* Ruby version
-* System dependencies
-* Configuration
-* Database creation
-* Database initialization
-* How to run the test suite
-* Services (job queues, cache servers, search engines, etc.)
-# sprint-2
-First sprint repository.
-=======
-* Deployment instructions and link to current heroku deploy
->>>>>>> modify-README
+For more information on Gift Garden and our project, goto The Garden and select "About".
+thanks... yow, bill
+
+![Gift Garden logo](https://github.com/noctrl-csc694-fall2016/giftgarden694/blob/master/app/assets/images/custom-logo.png)
+
