@@ -1,7 +1,7 @@
 # Gift Garden
 
 This repo holds the class version of Gift Garden, a gift management system for nonprofits.
-The system was created by the students of CSC 694 Fall 2016 term at North Central College.
+The system was created by the students of CSC 694 Fall 2016 term at [North Central College](http://noctrl.edu/).
 
 The class version of Gift Garden is at: [giftgarden694.herokuapp.com](http://giftgarden694.herokuapp.com/).
 
